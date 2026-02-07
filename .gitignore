@@ -1,6 +1,7 @@
 # Nestjs specific
 /dist
 /node_modules
+/amitwo/node_modules
 /build
 /tmp
 
