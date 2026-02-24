@@ -1,6 +1,9 @@
 # Nestjs specific
 /dist
 /node_modules
+/back/node_modules
+/back/README.md
+/back/.prettierrc
 /build
 /tmp
 
